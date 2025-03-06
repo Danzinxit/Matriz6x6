@@ -1,0 +1,7 @@
+H:\Visual Studio 2022\Projects\AulaMatriz\AulaMatriz\bin\Debug\AulaMatriz.exe.config
+H:\Visual Studio 2022\Projects\AulaMatriz\AulaMatriz\bin\Debug\AulaMatriz.exe
+H:\Visual Studio 2022\Projects\AulaMatriz\AulaMatriz\bin\Debug\AulaMatriz.pdb
+H:\Visual Studio 2022\Projects\AulaMatriz\AulaMatriz\obj\Debug\AulaMatriz.csproj.AssemblyReference.cache
+H:\Visual Studio 2022\Projects\AulaMatriz\AulaMatriz\obj\Debug\AulaMatriz.csproj.CoreCompileInputs.cache
+H:\Visual Studio 2022\Projects\AulaMatriz\AulaMatriz\obj\Debug\AulaMatriz.exe
+H:\Visual Studio 2022\Projects\AulaMatriz\AulaMatriz\obj\Debug\AulaMatriz.pdb
